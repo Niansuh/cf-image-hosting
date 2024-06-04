@@ -11,7 +11,7 @@ Free unlimited image hosting on Telegraph, deployed on Cloudflare.
 
 ### Screenshots
 
-<img src="https://github.com/Niansuh/cf-image-hosting" width="700" />
+<img src="https://naiserver.pages.dev/file/76c5c087c10cd57981a94.png" width="700" />
 
 ### Development
 
@@ -50,7 +50,7 @@ $ npm run install && npm run deploy
 <details>
   <summary>How to bind a domain name?</summary>
   Triggers -> Custom Domains -> Add a custom domain.
-  <img src="https://github.com/Niansuh/cf-image-hosting" width="700" />
+  <img src="https://naiserver.pages.dev/file/206c10f26e6f4671c9b4c.png" width="700" />
 </details>
 
 ### License
